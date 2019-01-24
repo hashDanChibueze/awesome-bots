@@ -55,6 +55,7 @@ You can request access here:
 
 ### Voice bots
 * [Storyline](https://getstoryline.com) - Create voice apps without coding via visual interface and ready-to-use templates.
+* [BotTalk](https://bottalk.de) - Create voice apps for Amazon Alexa and Google Assistant with simple Yaml Markup.
 
 ### Newsletters
 * [How Bot Industry Grow By Up To 100% Month Over Month](https://botcube.co/newsletter) - Five epic actionable bot tricks delivered to your email once a week
@@ -262,6 +263,7 @@ You can request access here:
 * [ChatScript](https://github.com/bwilcox-1234/ChatScript) - Natural Language tool/dialog manager
 * [IBM Watson](https://www.ibm.com/watson/developercloud/) - Enable cognitive computing features in your app using IBM Watson's Language, Vision, Speech and Data APIs
 * [Botfuel NLP](https://www.botfuel.io/en/features/nlp) - Natural Language Understanding/Processing APIs
+* [DeepPavlov](https://deeppavlov.ai) - An open source library for deep learning end-to-end dialog systems and chatbots.
 
 ### Bot building platforms
 * [ManyChat](https://manychat.com/) - Create a Facebook bot to engage your audience. Send news and content, automate interaction and much more. Easy 2-minute setup. No coding required. Free
@@ -399,6 +401,7 @@ There is free and paid plans. Interface is Turkish but bots can work any latin l
 * [Web Chatbot Bootsrap Kit in Whatsapp style](https://github.com/AdrianKrebs/chatbot-bootstrap)
 * [Node Telegram bot boilerplate](https://github.com/txwkx/node-telegram-bot-boilerplate)
 * [Node BotUI + API.AI App Boilerplate](https://github.com/sushantshekhar20/bot_api.ai)
+* [Node Telegraf.js Bot Template (async/knex/dotenv/eslint/sao)](https://github.com/Piterden/template-bot)
 
 #### Tutorials/Guides
 * [The Complete Beginner’s Guide To Chatbots](https://chatbotsmagazine.com/the-complete-beginner-s-guide-to-chatbots-8280b7b906ca#.54ql2uhaf)
